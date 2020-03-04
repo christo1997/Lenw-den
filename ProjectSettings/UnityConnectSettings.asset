@@ -17,11 +17,15 @@ UnityConnectSettings:
     m_Enabled: 0
     m_TestMode: 0
   UnityAnalyticsSettings:
+<<<<<<< HEAD
 <<<<<<< master
     m_Enabled: 1
 =======
     m_Enabled: 0
 >>>>>>> Commencement du menu
+=======
+    m_Enabled: 0
+>>>>>>> develop
     m_InitializeOnStartup: 1
     m_TestMode: 0
     m_TestEventUrl: 
